@@ -40,10 +40,21 @@ I'm a passionate *Computer Engineering Student* and *Award-Winning Innovator* wi
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-1213&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-1213&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center"  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-1213&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+ <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-1213&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-1213&theme=tokyonight" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-1213&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik-1213&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-1213&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -107,17 +118,54 @@ An attendance management app for educational institutions, featuring dashboards,
 ## 📫 Let's Connect!
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Your-Email])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-kumbhar-1213praa29b)
-
+  <h3>Profile Info</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+         <a href="mailto:kumbharpratik1213@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/Pratik-1213">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="[https://www.linkedin.com/in/alex-aparecejr-529669369](https://linkedin.com/in/pratik-kumbhar-1213praa29b)">
+            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/Pratik-1213/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/Pratik-1213?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratik-1213&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   💙 Thanks for visiting my profile! Let's build something innovative together! 💙
