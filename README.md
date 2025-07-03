@@ -30,21 +30,21 @@ I'm a passionate *Computer Engineering Student* and *Award-Winning Innovator* wi
 ---
 
 ### 📊 Data Visualization & ML Tools  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" /> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" /> | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" /> | <img src="" width="40" /> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" /> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" /> | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" /> | <img src="https://github.com/Pratik-1213/Pratik-Kumbhar/blob/main/kaggle.png" width="40" /> |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Matplotlib | Seaborn | SciPy | Keras | TensorFlow | PyTorch | Jupyter Notebook | Kaggle |
 
 ---
 
 ### 🧠 Computer Vision  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | <img src="" width="40" /> | <img src="https://mediapipe.dev/images/logo.png" width="40" /> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | <img src="https://github.com/Pratik-1213/Pratik-Kumbhar/blob/main/yolo.jpeg" width="40" /> | <img src="https://mediapipe.dev/images/logo.png" width="40" /> |
 |:--:|:--:|:--:|
 | OpenCV | YOLO | MediaPipe |
 
 ---
 
 ### ☁️ Platforms & IDEs  
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" /> | ![VS Code](https://skillicons.dev/icons?i=vscode) | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse_Logo.svg" width="40" /> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" /> | ![VS Code](https://skillicons.dev/icons?i=vscode) | <img src="https://github.com/Pratik-1213/Pratik-Kumbhar/blob/main/eclipse.png" width="40" /> |
 |:--:|:--:|:--:|
 | Google Colab | Visual Studio Code | Eclipse |
 
