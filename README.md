@@ -15,28 +15,54 @@ I'm a passionate *Computer Engineering Student* and *Award-Winning Innovator* wi
 
 ## 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 👨‍💻 Languages  
+| ![Python](https://skillicons.dev/icons?i=python) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![PHP](https://skillicons.dev/icons?i=php) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Python | Java | JavaScript | HTML5 | CSS3 | C | C++ | PHP |
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Android](https://img.shields.io/badge/android-%2334C759.svg?style=for-the-badge&logo=android&logoColor=white)
+---
 
-### Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚙️ Frameworks & Libraries  
+| ![Flask](https://skillicons.dev/icons?i=flask) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | ![React](https://skillicons.dev/icons?i=react) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" /> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Flask | OpenCV | React | NumPy | Pandas | Scikit-learn | Tailwind CSS | Bootstrap |
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+---
+
+### 📊 Data Visualization & ML Tools  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" /> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" /> | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" /> | <img src="" width="40" /> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Matplotlib | Seaborn | SciPy | Keras | TensorFlow | PyTorch | Jupyter Notebook | Kaggle |
+
+---
+
+### 🧠 Computer Vision  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | <img src="" width="40" /> | <img src="https://mediapipe.dev/images/logo.png" width="40" /> |
+|:--:|:--:|:--:|
+| OpenCV | YOLO | MediaPipe |
+
+---
+
+### ☁️ Platforms & IDEs  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" /> | ![VS Code](https://skillicons.dev/icons?i=vscode) | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse_Logo.svg" width="40" /> |
+|:--:|:--:|:--:|
+| Google Colab | Visual Studio Code | Eclipse |
+
+---
+
+### 🗄️ Databases  
+| ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Firebase](https://skillicons.dev/icons?i=firebase) | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" /> | ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=sqlite&logoColor=white) |
+|:--:|:--:|:--:|:--:|:--:|
+| SQLite | MySQL | Firebase | MongoDB | SQL |
+
+---
+
+### 🛠 Tools & Platforms  
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Figma](https://skillicons.dev/icons?i=figma) | ![Postman](https://skillicons.dev/icons?i=postman) | ![Linux](https://skillicons.dev/icons?i=linux) |
+|:--:|:--:|:--:|:--:|:--:|
+| Git | GitHub | Figma | Postman | Linux |
+
+---
 
 ## 📊 GitHub Stats
 
