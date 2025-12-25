@@ -22,11 +22,15 @@ I'm a passionate *Computer Engineering Student* and *Award-Winning Innovator* wi
 
 ---
 
-### ⚙️ Frameworks & Libraries  
-| ![Flask](https://skillicons.dev/icons?i=flask) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | ![React](https://skillicons.dev/icons?i=react) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" /> |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Flask | OpenCV | React | NumPy | Pandas | Scikit-learn | Tailwind CSS | Bootstrap |
+### ⚙️ Frameworks & Libraries
 
+| ![React](https://skillicons.dev/icons?i=react) | ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" /> | ![Flask](https://skillicons.dev/icons?i=flask) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| React | Next.js | Node.js | TypeScript | Tailwind | Bootstrap | Flask |
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> |
+|:--:|:--:|:--:|:--:|
+| OpenCV | NumPy | Pandas | Scikit-learn |
 ---
 
 ### 📊 Data Visualization & ML Tools  
@@ -66,24 +70,20 @@ I'm a passionate *Computer Engineering Student* and *Award-Winning Innovator* wi
 
 ## 📊 GitHub Stats
 
-<div align="center"  style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-1213&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pratik-1213&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
 
- <!-- Language Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-1213&theme=tokyonight" width="340px" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-1213&theme=tokyonight" width="340px" />
   </div>
 
-  <!-- Activity Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;" align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-1213&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik-1213&theme=tokyonight&utcOffset=+8.0" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik-1213&theme=tokyonight&utcOffset=5.5" width="340px" />
   </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-1213&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
@@ -134,59 +134,53 @@ An attendance management app for educational institutions, featuring dashboards,
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-1213&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
   <h3>Profile Info</h3>
   <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>Contact me</strong>
-       <br>
-       <br>
-         <a href="mailto:kumbharpratik1213@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+      <div align="center">
+          <p>
+        <br>
+          <strong>Contact me</strong>
+        <br>
+        <br>
+          <a href="mailto:kumbharpratik1213@gmail.com">
+             <img src="https://skillicons.dev/icons?i=gmail" width="auto" height="auto"/>
           </a>
-           <a href="https://github.com/Pratik-1213">
-            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+            <a href="https://github.com/Pratik-1213">
+             <img src="https://skillicons.dev/icons?i=github" width="auto" height="auto"/>
           </a>
-          <a href="[https://www.linkedin.com/in/alex-aparecejr-529669369](https://linkedin.com/in/pratik-kumbhar-1213praa29b)">
-            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          <a href="https://linkedin.com/in/pratik-kumbhar-1213praa29b">
+             <img src="https://skillicons.dev/icons?i=linkedin" width="auto" height="auto"/>
           </a>
-         </p>
-     </div>
-   </kbd>
+          </p>
+      </div>
+    </kbd>
   <kbd>
-     <div align="center">
-         <p>
-       <br> 
-         <strong>Profile Views</strong>
-       <br>
-       <br>
-           <img src="https://profile-counter.glitch.me/Pratik-1213/count.svg" width="350px" />
-         </p>
-     </div>
-   </kbd>
-   <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>Followers Count</strong>
-       <br>
-       <br>
-       <br>
-          <img src="https://img.shields.io/github/followers/Pratik-1213?label=Followers&style=social" alt="followers-count" width="150px"> 
-       <br>
-       <br>
-         </p>
-     </div>
+      <div align="center">
+          <p>
+        <br> 
+          <strong>Profile Views</strong>
+        <br>
+        <br>
+            <img src="https://komarev.com/ghpvc/?username=Pratik-1213&label=Views&color=2E9FFF&style=flat-square" alt="Profile Views" />
+          </p>
+      </div>
+    </kbd>
+    <kbd>
+      <div align="center">
+          <p>
+        <br>
+          <strong>Followers Count</strong>
+        <br>
+        <br>
+        <br>
+           <img src="https://img.shields.io/github/followers/Pratik-1213?label=Followers&style=social" alt="followers-count" width="150px"> 
+        <br>
+        <br>
+          </p>
+      </div>
   </kbd>
 </div>
 
