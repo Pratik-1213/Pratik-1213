@@ -1,419 +1,677 @@
-<!-- MATRIX-STYLE ANIMATED HEADER -->
+<!-- ██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗██████╗ ██╗  ██╗ █████╗ ██████╗ -->
+<!-- ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██║  ██║██╔══██╗██╔══██╗ -->
+<!-- ██████╔╝██████╔╝███████║   ██║   ██║█████╔╝     █████╔╝ ██║   ██║██╔████╔██║██████╔╝███████║███████║██████╔╝ -->
+<!-- ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗     ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██╗██╔══██║██╔══██║██╔══██╗ -->
+<!-- ██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██████╔╝██║  ██║██║  ██║██║  ██║ -->
+<!-- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ -->
+
+<!-- ═══════════════════════════ HERO SECTION ═══════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:0d47a1,100:00ff41&height=300&section=header&text=Pratik%20Kumbhar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3E_%20AI/ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20SIH%20National%20Finalist&descSize=18&descAlignY=55&descAlign=50&stroke=00ff41&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,25:00cc33,50:0d47a1,75:00cc33,100:00ff41&height=320&section=header&text=⟨%20PRATIK%20KUMBHAR%20/%20⟩&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descSize=12&descAlignY=48&descAlign=50&stroke=00ff41&strokeWidth=1" width="100%" />
 </div>
 
-<!-- ANIMATED TYPING TERMINAL -->
+<!-- GLITCH TITLE ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;Pratik+Kumbhar+%7C+COEP+Tech+University%2C+Pune;%24+cat+achievements.log;%F0%9F%8F%86+SIH+2025+Runner-Up+%7C+37%2B+Awards+%7C+5+Papers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+AI%2FML+ENGINEER+%E2%94%82+FULL-STACK+DEV+%E2%94%82+SIH+NATIONAL+FINALIST+%E2%96%91%E2%96%92%E2%96%93%E2%96%88" />
 </div>
 
-<br/>
-
-<!-- SOCIAL BADGES WITH GLOW EFFECT -->
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-pratik--1213.vercel.app-00ff41?style=for-the-badge&labelColor=0d1117)](https://pratik-1213.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-Pratik_Kumbhar-0A66C2?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/pratik-kumbhar-1213praa29b)
-  [![Gmail](https://img.shields.io/badge/%F0%9F%93%A7_Email-kumbharpratik1213-EA4335?style=for-the-badge&labelColor=0d1117)](mailto:kumbharpratik1213@gmail.com)
-  [![GitHub](https://img.shields.io/github/followers/Pratik-1213?label=%F0%9F%91%A5+Followers&style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/Pratik-1213)
-  
-</div>
-
-<br/>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-<!-- TERMINAL STYLE ABOUT ME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%92%BB+system.out.println(%22About+Me%22);" />
-
-```js
-// pratik_kumbhar.config.js — Runtime Profile
-
-const PratikKumbhar = {
-    location: "Pune, Maharashtra, India",
-    education: {
-        degree: "B.Tech — Computer Science & Engineering",
-        university: "COEP Technological University, Pune",
-        cgpa: "8.24 / 10",
-        diploma: "98.94% — College Topper 🏆 (1st Rank all 3 years)"
-    },
-    currentRoles: [
-        "Android Developer @ BharatSports (Govt. of Maharashtra)",
-        "Technical Team Member @ SDS, COEP Tech University",
-        "Google Student Ambassador — Gemini AI Program"
-    ],
-    achievements: {
-        hackathons: "14+ competed | SIH 2025 National Runner-Up 🥈",
-        awards: "37+ National & State Awards",
-        publications: "5 Research Papers (UGC-approved journals)",
-        recognition: "Best Outgoing Student | International Collab Offer (Germany)"
-    },
-    currentlyBuilding: "AI-powered systems that solve real-world problems",
-    funFact: "I don't just participate in hackathons — I win them. 🚀"
-};
-
-module.exports = PratikKumbhar;
-```
-
----
-
-<!-- ANIMATED ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-1213&bg_color=0d1117&color=00ff41&line=0d47a1&point=00ff41&area=true&area_color=0d47a1&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Graph%20%E2%80%94%20Green%20Means%20Go&title_color=00ff41" width="98%" />
-</div>
-
----
-
-<!-- TROPHY SECTION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%8F%86+achievements.unlock();" />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratik-1213&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=1500&pause=300&color=0d47a1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%5BSYSTEM%5D+Initializing+profile...;%5BSYSTEM%5D+Loading+37%2B+national+awards...+%E2%9C%93;%5BSYSTEM%5D+Loading+5+research+publications...+%E2%9C%93;%5BSYSTEM%5D+Loading+14%2B+hackathon+records...+%E2%9C%93;%5BSYSTEM%5D+Profile+loaded+successfully.+Welcome." />
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-
-### ⚔️ Competition Victories
-```
-╔══════════════════════════════════════════╗
-║  🥈 Runner-Up — SIH 2025 (National)     ║
-║  🥇 1st Rank — ExpoTech 2025            ║
-║  🥈 2nd Rank — TechnoCart 2K25           ║
-║  🥈 2nd Rank — National AI/ML Comp.      ║
-║  🎯 DIPEX 2025 — 8 Industrial Offers     ║
-║  🌍 International Collab — Germany        ║
-╚══════════════════════════════════════════╝
-```
-
-</td>
-<td width="50%">
-
-### 🎖️ Badges Earned
-```
-╔══════════════════════════════════════════╗
-║  🟢 Google Student Ambassador (Gemini)   ║
-║  📄 5x Published Researcher              ║
-║  🎓 Diploma Topper — 98.94%              ║
-║  ⭐ Best Outgoing Student, BSIET         ║
-║  🏗️ Tech Team Head — MLSA BSIET         ║
-║  🌱 Open Source — GSSoC Contributor      ║
-╚══════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TECH STACK WITH ANIMATED HEADERS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=import+skills+from+%22.%2Ftech_stack%22;" />
+<!-- ═══════════ ANIMATED BADGE MATRIX ═══════════ -->
 
 <div align="center">
-
-### `> languages --list`
   
-<img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,cpp,c,html,css&theme=dark" />
-
-### `> ai_ml --tools`
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d47a1?style=for-the-badge&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logoColor=white)
-
-### `> frontend --frameworks`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-
-### `> backend --stack`
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
-
-### `> databases --engines`
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,supabase,redis&theme=dark" />
-
-![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-FF4F64?style=for-the-badge&logoColor=white)
-
-### `> devops --toolkit`
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,linux,androidstudio,figma&theme=dark" />
-
-### `> mobile --platforms`
-
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&theme=dark" />
+  <a href="https://pratik-1213.vercel.app"><img src="https://img.shields.io/badge/⟨_PORTFOLIO_/⟩-pratik--1213.vercel.app-00ff41?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=" /></a>
+  <a href="https://linkedin.com/in/pratik-kumbhar-1213praa29b"><img src="https://img.shields.io/badge/⟨_LINKEDIN_/⟩-Connect-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:kumbharpratik1213@gmail.com"><img src="https://img.shields.io/badge/⟨_EMAIL_/⟩-Contact-EA4335?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/Pratik-1213"><img src="https://img.shields.io/github/followers/Pratik-1213?label=⟨+FOLLOWERS+/⟩&style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" /></a>
 
 </div>
-
----
-
-<!-- FLAGSHIP PROJECTS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%9A%80+flagship_projects.deploy();" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%90%84_CATTLE_BREED_RECOGNITION-SIH_2025-00ff41?style=for-the-badge&labelColor=0d1117" />
-</div>
-
-> **🥈 Runner-Up — Smart India Hackathon National Finals**
-
-Deep learning system recognizing **50+ indigenous breeds** for the Dept. of Animal Husbandry & Dairying.
-
-```
-📸 10,000+ real-world images (field collected)
-🎯 92%+ classification accuracy
-⚡ <200ms mobile inference (offline)
-📱 Flutter/Android — impacts 10M+ farmers
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter&theme=dark&perline=4" />
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%AB%80_CARDIOSCOPE-AI_Cardiac_Diagnostics-0d47a1?style=for-the-badge&labelColor=0d1117" />
-</div>
-
-> **90%+ accuracy in cardiac abnormality prediction**
-
-AI-driven real-time heart sound classification for affordable cardiac screening.
-
-```
-🔊 1,000+ heart sound samples processed
-🏥 Rural clinic + telehealth deployment
-📱 Mobile + Web — portable screening
-💰 Low-cost alternative to traditional methods
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark&perline=4" />
-  
-  ![ML](https://img.shields.io/badge/ML-Signal_Processing-00ff41?style=flat-square&labelColor=0d1117)
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%84_RFP_GENIE-AI_Powered_Platform-00ff41?style=for-the-badge&labelColor=0d1117" />
-</div>
-
-> **Multi-agent AI system | 20+ REST APIs | 6 Docker services**
-
-End-to-end B2B platform automating RFP response lifecycle with intelligent agents.
-
-```
-🤖 LangChain + LangGraph multi-agent system
-🔍 Qdrant vector DB semantic search
-⚡ 40% latency reduction (Redis caching)
-🐳 Docker Compose: 6 microservices
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,docker,mongodb,redis&theme=dark&perline=5" />
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%BE_CROP_RECOMMENDATION-AI_%2B_LLMs-0d47a1?style=for-the-badge&labelColor=0d1117" />
-</div>
-
-> **Smart farming powered by AI + Large Language Models**
-
-Analyzes weather & soil parameters for optimal crop recommendations.
-
-```
-🌡️ Real-time weather + soil analysis
-🤖 LLM-based farming guidance
-⚠️ Disease outbreak & calamity alerts
-👨‍🌾 Built for real farmers, real conditions
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark&perline=4" />
-  
-  ![LLMs](https://img.shields.io/badge/LLMs-Weather_APIs-00ff41?style=flat-square&labelColor=0d1117)
-</div>
-
-</td>
-</tr>
-</table>
-
-### 🌐 Production Deployments — Live & Serving Users
-
-```
-🔗 coepzest.org ─────────────────── Zest '26 — Official COEP Festival | 10,000+ visitors
-🔗 coep-gathering-26.vercel.app ─── COEP Gathering '26 — Official Event Platform
-🔗 sds-website-pra.vercel.app ───── SDS Website — Full-Stack MERN | 15+ APIs
-🔗 bottle-flow-pos.vercel.app ───── BottleFlow-POS — Inventory Mgmt | 500+ products
-🔗 libri-stream.vercel.app ──────── LibriStream — Library Management System
-🔗 coep-laf.vercel.app ─────────── COEP Lost & Found — 3,000+ students served
-🔗 pratik-1213.github.io/Zest-Live-Score/ ── Live Score Tracker — Real-time Sports
-```
-
----
-
-<!-- EXPERIENCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%92%BC+career.getExperience();" />
-
-```python
-# experience.py — Professional Timeline
-
-experience = [
-    {
-        "role": "🏛️ Android Developer",
-        "company": "BharatSports — Govt. of Maharashtra",
-        "period": "Jan 2026 → Present",
-        "stack": ["Kotlin", "XML", "REST APIs", "Dashboard Systems"]
-    },
-    {
-        "role": "💻 Technical Team Member",
-        "company": "Software Development Section (SDS) — COEP Tech University",
-        "period": "Nov 2025 → Present",
-        "stack": ["MERN Stack", "Drupal", "Java", "Code Reviews"]
-    },
-    {
-        "role": "🟢 Google Student Ambassador",
-        "company": "Google — Gemini AI Program @ COEP",
-        "period": "Sep 2025 → Feb 2026",
-        "stack": ["Gemini AI", "Workshops", "500+ Students Mentored"]
-    },
-    {
-        "role": "📱 Android Developer Intern",
-        "company": "iGAP Technologies Pvt. Ltd., Kolhapur",
-        "period": "Jun 2024 → Jul 2024",
-        "stack": ["Java", "Android", "Production Apps", "UX Optimization"]
-    }
-]
-```
-
----
-
-<!-- RESEARCH PUBLICATIONS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%93%9D+publications.fetchAll();" />
-
-| # | Title | Journal | IF / Index | Date |
-|:-:|:------|:--------|:----------:|:----:|
-| 📄 | **AI in Oncology**: Cancer Diagnosis & Treatment | JITS (Vol. 10, Issue 3) | Peer-Reviewed | Dec 2024 |
-| 📄 | **Quantum Computing** × AI and ML | JETIR | UGC-approved, 7.95 IF | Nov 2024 |
-| 📄 | **Industry 5.0**: Human-Centric Approach | IJIRT (Vol. 11, Issue 6) | Peer-Reviewed | Nov 2024 |
-| 📄 | **AI-Driven Nanotechnology**: Cancer Therapy | IRJMETS (Vol. 06, Issue 10) | UGC CARE-listed | Oct 2024 |
-| 📄 | **AI × Healthcare**: Transformative Impact | MAT Journals (Vol. 9, Issue 3) | Indexed | Sep 2024 |
-
----
-
-<!-- LEADERSHIP -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%8E%AF+leadership.roles();" />
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏗️  Tech Team Head — MLSA BSIET Chapter                       │
-│  🌐  Organizer — WordCamp Kolhapur 2.0 (WordPress Open Source)  │
-│  🚀  Co-ordinator — Innovation & IPR, COEP E-Cell               │
-│  🎪  Co-ordinator — App & Web, ZEST '26 (Asia's largest fest)   │
-│  🎓  Campus Ambassador — GSSoC 2025 | E-Cell IIT Guwahati       │
-│  👨‍💼  President — CE Department, BSIET (2024-25)                 │
-│  🌱  Open Source Contributor — GSSoC & GSSoC Extended            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- GITHUB STATS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%93%8A+git+log+--stat+--oneline;" />
-
-<div align="center">
-
-<!-- STREAK & STATS SIDE BY SIDE -->
-<img src="https://streak-stats.demolab.com?user=Pratik-1213&theme=dark&hide_border=true&border_radius=10&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=0d47a1&dates=555555&background=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik-1213&show_icons=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=0d47a1&include_all_commits=true&count_private=true" width="49%" />
 
 <br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ ABOUT ME — TERMINAL ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fabout_me;%E2%94%94%E2%94%80%E2%94%80%24+cat+profile.json" />
+</div>
+
+```json
+{
+  "🧑‍💻 name": "Pratik Sachin Kumbhar",
+  "📍 location": "Pune, Maharashtra, India",
+  "🎓 education": {
+    "current": "B.Tech CSE — COEP Technological University, Pune (CGPA: 8.24)",
+    "previous": "Diploma in CE — 98.94% | College Topper 🏆 | 1st Rank × 3 Years"
+  },
+  "⚡ current_roles": [
+    "🏛️ Android Developer → BharatSports (Govt. of Maharashtra)",
+    "💻 Tech Team Member → Software Development Section, COEP",
+    "🟢 Google Student Ambassador → Gemini AI Program"
+  ],
+  "🏆 career_stats": {
+    "hackathons_competed": "14+",
+    "national_state_awards": "37+",
+    "research_papers": 5,
+    "production_apps_deployed": "12+",
+    "rest_apis_built": "50+",
+    "users_impacted": "10,000,000+"
+  },
+  "💬 philosophy": "I don't just participate in hackathons — I win them."
+}
+```
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ GITHUB METRICS DASHBOARD ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fstats;%E2%94%94%E2%94%80%E2%94%80%24+neofetch+--github" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- STREAK -->
+<img src="https://streak-stats.demolab.com?user=Pratik-1213&hide_border=true&border_radius=15&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=0d47a1&dates=555555&background=0d1117&stroke=00ff4133" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik-1213&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=0d47a1&include_all_commits=true&count_private=true&ring_color=00ff41" width="49%" />
+
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-1213&bg_color=0d1117&color=00ff41&line=0d47a1&point=00ff41&area=true&area_color=00ff4115&hide_border=true&custom_title=⟨%20CONTRIBUTION%20HEATMAP%20/%20⟩&title_color=00ff41&radius=16" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 <!-- LANGUAGE & COMMIT CARDS -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-1213&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-1213&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik-1213&theme=github_dark&utcOffset=5.5" width="32%" />
 
-<!-- FULL WIDTH PROFILE DETAILS -->
+<!-- FULL PROFILE -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-1213&theme=github_dark" width="98%" />
 
 </div>
 
----
+<br/>
 
-<!-- CERTIFICATIONS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&vCenter=true&width=500&height=30&lines=%F0%9F%8F%85+certifications.verify();" />
-
+<!-- TROPHIES -->
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pratik_1213/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/kumbharpratik191)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-
-`NPTEL Python` · `Postman API Expert` · `HackerRank SWE Intern` · `SQL Certified` · `Python Certified`
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratik-1213&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%" />
 </div>
-
----
-
-<!-- METRICS DASHBOARD -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/Hackathons-14+-00ff41?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Awards-37+-0d47a1?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Research_Papers-5-00ff41?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Live_Projects-12+-0d47a1?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Production_APIs-50+-00ff41?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d47a1,100:00ff41&height=150&section=footer&text=%3E_%20while(alive)%20%7B%20code()%3B%20innovate()%3B%20repeat()%3B%20%7D&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22+%E2%80%94+Alan+Kay" />
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Ftrophies;%E2%94%94%E2%94%80%E2%94%80%24+cat+%2Fvar%2Flog%2Fwins.log" />
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pratik-1213&label=%3E_+Profile+Views&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<div align="center">
+
+<!-- ANIMATED ACHIEVEMENT BADGES -->
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_SIH_2025-NATIONAL_RUNNER--UP-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_EXPOTECH_2025-1ST_RANK-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_TECHNOCART_2K25-2ND_RANK-C0C0C0?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_NATIONAL_AI%2FML-2ND_RANK-C0C0C0?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_DIPEX_2025-8_INDUSTRIAL_OFFERS-0d47a1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D_GERMANY-INTERNATIONAL_COLLAB-0d47a1?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```
+  ╔══════════════════════════════════════════╗
+  ║                                          ║
+  ║   ⚔️  HACKATHON BATTLE LOG               ║
+  ║   ─────────────────────────              ║
+  ║                                          ║
+  ║   🥈 Smart India Hackathon 2025          ║
+  ║      └─ National Grand Finale            ║
+  ║      └─ Ministry of Animal Husbandry     ║
+  ║                                          ║
+  ║   🥇 ExpoTech 2025 (National)            ║
+  ║      └─ ₹18,000 Prize Money              ║
+  ║                                          ║
+  ║   🥈 TechnoCart 2K25 (National)           ║
+  ║   🥈 National AI/ML Competition           ║
+  ║                                          ║
+  ║   🎯 DIPEX 2025 (State Level)            ║
+  ║      └─ 8 Industrial Offers              ║
+  ║      └─ International Collab (Germany)   ║
+  ║                                          ║
+  ║   + 8 more hackathons competed...        ║
+  ║                                          ║
+  ╚══════════════════════════════════════════╝
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+  ╔══════════════════════════════════════════╗
+  ║                                          ║
+  ║   🎖️  RECOGNITION & HONOURS              ║
+  ║   ─────────────────────────              ║
+  ║                                          ║
+  ║   🟢 Google Student Ambassador           ║
+  ║      └─ Gemini AI Program @ COEP         ║
+  ║      └─ 500+ students mentored           ║
+  ║                                          ║
+  ║   📄 5× Published Researcher             ║
+  ║      └─ UGC-approved journals            ║
+  ║      └─ Peer-reviewed & indexed          ║
+  ║                                          ║
+  ║   🎓 Diploma Topper — 98.94%             ║
+  ║      └─ 1st Rank × 3 consecutive years   ║
+  ║                                          ║
+  ║   ⭐ Best Outgoing Student (BSIET)       ║
+  ║   ⭐ Excellent Performance Award          ║
+  ║   🏗️ Tech Team Head (MLSA Chapter)       ║
+  ║                                          ║
+  ╚══════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fskills;%E2%94%94%E2%94%80%E2%94%80%24+npm+list+--depth%3D0+skills" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- LANGUAGES -->
+<details open>
+<summary><b>⟨ 💻 LANGUAGES /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,typescript,cpp,c&theme=dark&perline=7" />
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-Expert-00ff41?style=flat-square&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-00ff41?style=flat-square&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-Expert-00ff41?style=flat-square&labelColor=0d1117)
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-0d47a1?style=flat-square&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-Advanced-0d47a1?style=flat-square&labelColor=0d1117)
+
+</details>
+
+<!-- AI/ML -->
+<details open>
+<summary><b>⟨ 🧠 AI / MACHINE LEARNING /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=7" />
+<br/><br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d47a1?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-00ff41?style=for-the-badge&labelColor=0d1117)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0d47a1?style=for-the-badge&logoColor=white)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-00ff41?style=for-the-badge&labelColor=0d1117)
+
+</details>
+
+<!-- FRONTEND -->
+<details open>
+<summary><b>⟨ 🎨 FRONTEND /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark&perline=7" />
+</details>
+
+<!-- BACKEND -->
+<details open>
+<summary><b>⟨ ⚙️ BACKEND & APIs /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&perline=7" />
+<br/><br/>
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-00ff41?style=for-the-badge&labelColor=0d1117)
+![GraphQL](https://img.shields.io/badge/Swagger_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</details>
+
+<!-- DATABASES -->
+<details open>
+<summary><b>⟨ 🗄️ DATABASES /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,supabase,redis&theme=dark&perline=7" />
+<br/><br/>
+
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-FF4F64?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<!-- MOBILE -->
+<details open>
+<summary><b>⟨ 📱 MOBILE DEVELOPMENT /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&theme=dark&perline=7" />
+<br/><br/>
+
+![Android](https://img.shields.io/badge/Android_(Java/XML)-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TFLite Mobile](https://img.shields.io/badge/TFLite_Mobile_Inference-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</details>
+
+<!-- DEVOPS -->
+<details open>
+<summary><b>⟨ 🐳 DEVOPS & TOOLS /⟩</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,linux,figma,vscode&theme=dark&perline=8" />
+</details>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ FLAGSHIP PROJECTS ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fprojects;%E2%94%94%E2%94%80%E2%94%80%24+docker+compose+up+--flagship" />
+</div>
+
+<br/>
+
+<!-- PROJECT 1: SIH -->
+<table>
+<tr>
+<td>
+
+<div align="center">
+  
+  ![Header](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=35&lines=%F0%9F%90%84+IMAGE-BASED+CATTLE+%26+BUFFALO+BREED+RECOGNITION" />
+  
+  ![SIH](https://img.shields.io/badge/🥈_RUNNER--UP-SMART_INDIA_HACKATHON_2025_NATIONAL_GRAND_FINALE-00ff41?style=for-the-badge&labelColor=0d1117)
+  
+</div>
+
+> Deep learning system recognizing **50+ indigenous cattle & buffalo breeds** for the **Department of Animal Husbandry & Dairying, Government of India**
+
+```python
+# sih_2025_results.py
+
+project = {
+    "dataset":     "10,000+ real-world images (field collected)",
+    "accuracy":    "92%+ classification (PyTorch)",
+    "inference":   "<200ms per prediction (TFLite, offline)",
+    "deployment":  "Flutter/Android — production mobile app",
+    "impact":      "10M+ farmers — livestock pricing, breeding, govt. schemes",
+    "recognition": "🥈 Runner-Up at SIH 2025 National Grand Finale"
+}
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter,androidstudio&theme=dark&perline=5" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 2: CARDIOSCOPE -->
+<table>
+<tr>
+<td>
+
+<div align="center">
+  
+  ![Header](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0d47a1&center=true&vCenter=true&width=600&height=35&lines=%F0%9F%AB%80+CARDIOSCOPE+%E2%80%94+AI-POWERED+CARDIAC+DIAGNOSTICS" />
+  
+  ![Accuracy](https://img.shields.io/badge/🎯_ACCURACY-90%25%2B_CARDIAC_ABNORMALITY_PREDICTION-0d47a1?style=for-the-badge&labelColor=0d1117)
+  
+</div>
+
+> AI-driven **real-time heart sound classification** system for affordable cardiac screening in **rural clinics** with telehealth integration
+
+```python
+# cardioscope_pipeline.py
+
+pipeline = {
+    "input":       "Heart sound recordings (.wav files)",
+    "processing":  "ML-based audio signal processing",
+    "samples":     "1,000+ heart sound files processed",
+    "models":      "Random Forest + feature extraction pipeline",
+    "deployment":  "Mobile + Web — portable, low-cost screening",
+    "target":      "Rural clinics, resource-limited healthcare"
+}
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark&perline=5" />
+  
+  ![ML](https://img.shields.io/badge/ML-Pipeline-00ff41?style=flat-square&labelColor=0d1117)
+  ![Signal](https://img.shields.io/badge/Signal-Processing-0d47a1?style=flat-square&labelColor=0d1117)
+  ![Audio](https://img.shields.io/badge/Audio-Classification-00ff41?style=flat-square&labelColor=0d1117)
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 3: RFP GENIE -->
+<table>
+<tr>
+<td>
+
+<div align="center">
+  
+  ![Header](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=35&lines=%F0%9F%93%84+RFP+GENIE+%E2%80%94+AI-POWERED+RFP+RESPONSE+PLATFORM" />
+  
+  ![APIs](https://img.shields.io/badge/⚡_20%2B_REST_APIs-6_DOCKER_SERVICES-00ff41?style=for-the-badge&labelColor=0d1117)
+  ![Latency](https://img.shields.io/badge/🚀_40%25_LATENCY-REDUCTION_(REDIS)-0d47a1?style=for-the-badge&labelColor=0d1117)
+  
+</div>
+
+> End-to-end **B2B AI platform** automating the entire RFP response lifecycle with **multi-agent AI architecture**
+
+```python
+# rfp_genie_architecture.py
+
+services = {
+    "ai_engine":   "LangChain + LangGraph — multi-agent system",
+    "llms":        "OpenAI + Anthropic APIs",
+    "search":      "Qdrant vector DB + FastEmbed (semantic)",
+    "backend":     "FastAPI — 20+ RESTful endpoints, async MongoDB",
+    "frontend":    "React + Vite — responsive dashboard",
+    "caching":     "Redis — 40% latency reduction",
+    "deployment":  "Docker Compose — 6 containerized microservices",
+    "docs":        "Swagger/OpenAPI auto-generated"
+}
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,docker,mongodb,redis&theme=dark&perline=5" />
+  
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-0d47a1?style=flat-square&logoColor=white)
+  ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT 4: CROP AI -->
+<table>
+<tr>
+<td>
+
+<div align="center">
+  
+  ![Header](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square)
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0d47a1&center=true&vCenter=true&width=600&height=35&lines=%F0%9F%8C%BE+CROP+RECOMMENDATION+AI+%E2%80%94+SMART+FARMING" />
+  
+  ![LLM](https://img.shields.io/badge/🤖_LLM_POWERED-FARMING_GUIDANCE_%2B_ALERTS-0d47a1?style=for-the-badge&labelColor=0d1117)
+  
+</div>
+
+> **AI + LLM** system analyzing weather & soil data to recommend optimal crops with intelligent farming plans and disaster alerts
+
+```python
+# crop_ai_features.py
+
+features = {
+    "analysis":    "Real-time weather + soil parameters (nutrients, pH, moisture)",
+    "prediction":  "ML-based optimal crop recommendations",
+    "guidance":    "LLM-powered sowing, fertilization & harvesting plans",
+    "alerts":      "Crop disease outbreak + natural calamity notifications",
+    "users":       "Built for real farmers in real conditions"
+}
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark&perline=5" />
+  
+  ![LLMs](https://img.shields.io/badge/LLMs-00ff41?style=flat-square&labelColor=0d1117)
+  ![Weather APIs](https://img.shields.io/badge/Weather_APIs-0d47a1?style=flat-square&labelColor=0d1117)
+  ![ML](https://img.shields.io/badge/ML_Pipeline-00ff41?style=flat-square&labelColor=0d1117)
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════ PRODUCTION WEB APPS ═══════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%24+ls+-la+%2Fvar%2Fwww%2Fproduction%2F+--deployed" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Status | Project | Description | Stack | Link |
+|:------:|:--------|:-----------|:------|:----:|
+| 🟢 LIVE | **Zest '26** | Official COEP Festival — **10,000+ visitors** | React, Node.js, MongoDB | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://coepzest.org) |
+| 🟢 LIVE | **COEP Gathering '26** | Official Event Platform | React, Vercel | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://coep-gathering-26.vercel.app) |
+| 🟢 LIVE | **SDS Website** | COEP Tech Club — **15+ APIs**, Admin Portal | MERN Stack | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://sds-website-pra.vercel.app) |
+| 🟢 LIVE | **BottleFlow-POS** | Inventory Management — **500+ products** | React, Express, MongoDB | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://bottle-flow-pos.vercel.app) |
+| 🟢 LIVE | **LibriStream** | Library Management System | MERN Stack | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://libri-stream.vercel.app) |
+| 🟢 LIVE | **COEP Lost & Found** | Campus Recovery — **3,000+ students** | React, Firebase | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://coep-laf.vercel.app) |
+| 🟢 LIVE | **Live Score Tracker** | Real-time Sports Scoring | HTML, CSS, JS | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://pratik-1213.github.io/Zest-Live-Score/) |
+| 🟢 LIVE | **Portfolio** | Personal Showcase | React, Vercel | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://pratik-1213.vercel.app) |
+| 📱 APP | **BSIET-Attendance** | Institute Attendance System (Deployed) | Android, Java, SQLite | `Production` |
+| 📱 APP | **Find EV Station** | EV Charging Station Locator | Android, Google Maps | `Production` |
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fcareer;%E2%94%94%E2%94%80%E2%94%80%24+git+log+--oneline+career" />
+</div>
+
+<br/>
+
+```
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                                                                         │
+  │  🏛️  ANDROID DEVELOPER — BharatSports (Govt. of Maharashtra)            │
+  │  ├─ Period: Jan 2026 → Present                                          │
+  │  ├─ Stack:  Kotlin + XML, REST APIs, Dashboard & Navigation Systems     │
+  │  └─ Impact: Login, registration, profile, posts, reels, dashboard       │
+  │                                                                         │
+  │  💻  TECHNICAL TEAM MEMBER — SDS, COEP Technological University         │
+  │  ├─ Period: Nov 2025 → Present                                          │
+  │  ├─ Stack:  MERN Stack, Drupal, Java                                    │
+  │  └─ Impact: Production apps, code reviews, solution design              │
+  │                                                                         │
+  │  🟢  GOOGLE STUDENT AMBASSADOR — Gemini AI Program                      │
+  │  ├─ Period: Sep 2025 → Feb 2026                                         │
+  │  ├─ Role:   AI workshops, hackathon mentoring @ COEP                    │
+  │  └─ Impact: 500+ students empowered with Gemini AI                      │
+  │                                                                         │
+  │  📱  ANDROID DEVELOPER INTERN — iGAP Technologies Pvt. Ltd.             │
+  │  ├─ Period: Jun 2024 → Jul 2024                                         │
+  │  ├─ Stack:  Java, Android Studio                                        │
+  │  └─ Impact: Shipped production features, UX optimization                │
+  │                                                                         │
+  └─────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ PUBLICATIONS ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fresearch;%E2%94%94%E2%94%80%E2%94%80%24+grep+-r+%22published%22+%2Fpapers%2F" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| 📄 | Title | Journal | Indexing | Date |
+|:--:|:------|:--------|:--------:|:----:|
+| `01` | **AI in Oncology** — Cancer Diagnosis & Treatment | JITS (Vol. 10, Issue 3) | ![PR](https://img.shields.io/badge/Peer--Reviewed-00ff41?style=flat-square&labelColor=0d1117) | Dec 2024 |
+| `02` | **Quantum Computing** × AI and ML | JETIR | ![UGC](https://img.shields.io/badge/UGC_Approved-0d47a1?style=flat-square&labelColor=0d1117) | Nov 2024 |
+| `03` | **Industry 5.0** — Human-Centric Approach | IJIRT (Vol. 11, Issue 6) | ![PR](https://img.shields.io/badge/Peer--Reviewed-00ff41?style=flat-square&labelColor=0d1117) | Nov 2024 |
+| `04` | **AI-Driven Nanotechnology** — Cancer Therapy | IRJMETS (Vol. 06, Issue 10) | ![CARE](https://img.shields.io/badge/UGC_CARE-0d47a1?style=flat-square&labelColor=0d1117) | Oct 2024 |
+| `05` | **AI × Healthcare** — Transformative Impact | MAT Journals (Vol. 9, Issue 3) | ![IDX](https://img.shields.io/badge/Indexed-00ff41?style=flat-square&labelColor=0d1117) | Sep 2024 |
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ LEADERSHIP ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fleadership;%E2%94%94%E2%94%80%E2%94%80%24+systemctl+status+community" />
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/🏗️_Tech_Team_Head-MLSA_BSIET_Chapter-00ff41?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🌐_Organizer-WordCamp_Kolhapur_2.0-0d47a1?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🚀_Coordinator-Innovation_%26_IPR,_COEP_E--Cell-00ff41?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🎪_Coordinator-App_%26_Web,_ZEST_'26-0d47a1?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🎓_Campus_Ambassador-GSSoC_2025_%7C_E--Cell_IIT_Guwahati-00ff41?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/👨‍💼_President-CE_Department,_BSIET_(2024--25)-0d47a1?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🌱_Open_Source-GSSoC_%26_GSSoC_Extended-00ff41?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ CERTIFICATIONS & CODING ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+root%40pratik-kumbhar+%E2%94%80%E2%94%80+~%2Fcerts;%E2%94%94%E2%94%80%E2%94%80%24+cat+certifications.txt" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/⟨_LeetCode_/⟩-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/pratik_1213/)
+[![HackerRank](https://img.shields.io/badge/⟨_HackerRank_/⟩-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117)](https://www.hackerrank.com/profile/kumbharpratik191)
+[![Kaggle](https://img.shields.io/badge/⟨_Kaggle_/⟩-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117)](https://kaggle.com)
+
+<br/>
+
+![](https://img.shields.io/badge/✅_NPTEL-Python-00ff41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_Postman-API_Expert-0d47a1?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_HackerRank-SWE_Intern-00ff41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_SQL-Certified-0d47a1?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/✅_Python-Certified-00ff41?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ METRICS COUNTER ═══════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/⟨_HACKATHONS_/⟩-14+-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⟨_AWARDS_/⟩-37+-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⟨_PAPERS_/⟩-5-0d47a1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⟨_LIVE_APPS_/⟩-12+-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⟨_APIs_BUILT_/⟩-50+-0d47a1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⟨_USERS_IMPACTED_/⟩-10M+-00ff41?style=for-the-badge&labelColor=0d1117" />
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,25:00cc33,50:0d47a1,75:00cc33,100:00ff41&height=200&section=footer&text=while(alive)%20%7B%20code();%20build();%20innovate();%20%7D&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65&stroke=00ff41&strokeWidth=1" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22+%E2%80%94+Alan+Kay;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-1213&label=⟨+PROFILE+VIEWS+/⟩&color=00ff41&style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-**⭐ If my work inspires you, star a repo — it fuels the next build!**
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ⭐  If my work inspires you, star a repo — it fuels the next build  ║
+║   🤝  Open for collaborations, hackathons, and building cool stuff   ║
+║   📧  kumbharpratik1213@gmail.com                                    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<!-- END OF README — Built with 💚 and too much caffeine by Pratik Kumbhar -->
