@@ -29,7 +29,9 @@
   <a href="https://pratik-1213.vercel.app"><img src="https://img.shields.io/badge/⟨_PORTFOLIO_/⟩-pratik--1213.vercel.app-00ff41?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmY0MSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=" /></a>
   <a href="https://linkedin.com/in/pratik-kumbhar-1213praa29b"><img src="https://img.shields.io/badge/⟨_LINKEDIN_/⟩-Connect-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:kumbharpratik1213@gmail.com"><img src="https://img.shields.io/badge/⟨_EMAIL_/⟩-Contact-EA4335?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://github.com/Pratik-1213"><img src="https://img.shields.io/github/followers/Pratik-1213?label=⟨+FOLLOWERS+/⟩&style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" /></a>
+<a href="https://github.com/Pratik-1213">
+  <img src="https://img.shields.io/github/followers/Pratik-1213?label=FOLLOWERS&style=for-the-badge&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41" />
+</a>
 
 </div>
 
@@ -83,8 +85,9 @@
 <div align="center">
 
 <!-- STREAK -->
-<img src="https://streak-stats.demolab.com?user=Pratik-1213&hide_border=true&border_radius=15&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=0d47a1&dates=555555&background=0d1117&stroke=00ff4133" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik-1213&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=0d47a1&include_all_commits=true&count_private=true&ring_color=00ff41" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Pratik-1213&theme=github-dark&hide_border=true" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-1213&theme=merko" width="49%" />
 
 </div>
 
@@ -111,11 +114,6 @@
 
 <br/>
 
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratik-1213&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%" />
-</div>
-
 <br/>
 
 <!-- SNAKE ANIMATION -->
@@ -123,7 +121,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
+   <img src="https://raw.githubusercontent.com/Pratik-1213/Pratik-1213/output/github-snake-dark.svg" />
   </picture>
 </div>
 
