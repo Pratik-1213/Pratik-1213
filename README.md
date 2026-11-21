@@ -103,12 +103,12 @@
 <div align="center">
 
 <!-- LANGUAGE & COMMIT CARDS -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-1213&theme=github_dark" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-1213&theme=github_dark" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik-1213&theme=github_dark&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-1213&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-1213&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratik-1213&theme=github_dark&utcOffset=5.5" width="32%" />
 
 <!-- FULL PROFILE -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-1213&theme=github_dark" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-1213&theme=github_dark" width="98%" />
 
 </div>
 
@@ -501,16 +501,16 @@ features = {
 
 | Status | Project | Description | Stack | Link |
 |:------:|:--------|:-----------|:------|:----:|
+| 🟢 LIVE | **RoomNest** | AI Pune PG Discovery & Quad-Model ML Suite (100k data points) | React, TypeScript, FastAPI, Scikit-Learn | [![Repo](https://img.shields.io/badge/→-GITHUB-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Pratik-1213/RoomNest) |
+| 🟢 LIVE | **DSE Predictor** | Direct Second Year Engineering Cutoff Predictor (2,010 CAP Records) | React 19, TypeScript, Tailwind CSS v4, Vite | [![Repo](https://img.shields.io/badge/→-GITHUB-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Pratik-1213/DSE-College-Predictor-Maharashtra-2025-26) |
+| 🟢 LIVE | **ProspectAssist AI** | AI Lending Lead Intelligence & Credit Underwriting Platform | FastAPI, Pydantic, SQLite, WebSockets | [![Repo](https://img.shields.io/badge/→-GITHUB-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Pratik-1213/ProspectAssist-AI) |
+| 🟢 LIVE | **Mail-Dispatcher** | Production Bulk Mail Dispatcher with Gmail SMTP & Live SSE Feed | Python, Flask, SSE, Vanilla JS | [![Repo](https://img.shields.io/badge/→-GITHUB-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Pratik-1213/Mail-Dispatcher) |
 | 🟢 LIVE | **Zest '26** | Official COEP Festival — **10,000+ visitors** | React, Node.js, MongoDB | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://coepzest.org) |
 | 🟢 LIVE | **COEP Gathering '26** | Official Event Platform | React, Vercel | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://coep-gathering-26.vercel.app) |
-| 🟢 LIVE | **SDS Website** | COEP Tech Club — **15+ APIs**, Admin Portal | MERN Stack | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://sds-website-pra.vercel.app) |
-| 🟢 LIVE | **BottleFlow-POS** | Inventory Management — **500+ products** | React, Express, MongoDB | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://bottle-flow-pos.vercel.app) |
-| 🟢 LIVE | **LibriStream** | Library Management System | MERN Stack | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://libri-stream.vercel.app) |
-| 🟢 LIVE | **COEP Lost & Found** | Campus Recovery — **3,000+ students** | React, Firebase | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://coep-laf.vercel.app) |
-| 🟢 LIVE | **Live Score Tracker** | Real-time Sports Scoring | HTML, CSS, JS | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://pratik-1213.github.io/Zest-Live-Score/) |
-| 🟢 LIVE | **Portfolio** | Personal Showcase | React, Vercel | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://pratik-1213.vercel.app) |
+| 🟢 LIVE | **LibriStream** | Secure Library Management System | React 19, Express, Mongoose | [![Repo](https://img.shields.io/badge/→-GITHUB-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Pratik-1213/LibriStream) |
+| 🟢 LIVE | **Portfolio** | Personal Developer Showcase | React, Vercel | [![Live](https://img.shields.io/badge/→-VISIT-00ff41?style=flat-square&labelColor=0d1117)](https://pratik-1213.vercel.app) |
+| 📱 APP | **BackTap** | Side Fingerprint Sensor Multi-Gesture Controller | Flutter, Dart, Native Android | [![Repo](https://img.shields.io/badge/→-GITHUB-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Pratik-1213/BackTap) |
 | 📱 APP | **BSIET-Attendance** | Institute Attendance System (Deployed) | Android, Java, SQLite | `Production` |
-| 📱 APP | **Find EV Station** | EV Charging Station Locator | Android, Google Maps | `Production` |
 
 </div>
 
